@@ -1,2 +1,2 @@
-# JavaPlatzciClass
+# JavaPlatzcyClass
 Learning java
