@@ -1,0 +1,2 @@
+# JavaPlatzcoClass
+Learning java
